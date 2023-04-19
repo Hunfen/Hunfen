@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hunfen
-- 👀 I’m interested in imaging process. (Classical & machine learning)
 - 🌱 I’m currently a PHD student of physics. 
 
 <!---
