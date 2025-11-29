@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hunfen
-- 🌱 I’m currently a PHD student of physics. 
+- 🌱 I’m currently a Postdoc in the University of Tokyo. 
 
 <!---
 Hunfen/Hunfen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
